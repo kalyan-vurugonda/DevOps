@@ -28,4 +28,27 @@
 - [DevOps Bootcamps - Praveen Singampalli](https://www.youtube.com/@PraveenSingampalli)
 
 
-<!--- DevOps Tools --->
+<!--DevOps Tools & Learning way-->
+## DevOps Tools
+- **VCS** : Git & GitHub 
+- **Basics** : DevOps Introduction, Linux, Operating System
+- **Programming & Scripting Languages** : Go, Python, Shell, Bash
+- **Other Pre-requisites** : Computer Networking, YAML, DevOps Pre-requisites
+- **Server Management** : Linux, Ubuntu, Web Servers
+- **Containers** : Docker
+- **Configuration Management** : Ansible, Chef, Puppet
+- **Container Orchestration** : Kubernetes, Helm
+- **Infrastructure Provisioning/IaC** : Terraform, Pulumi
+- **Service Mesh** : Istio, Consul
+- **CI/CD** : GitHub Actions, Jenkins, Gitlab CI
+- **GitOps** : ArgoCD
+- **Infrastructure Monitoring** : Prometheus, Grafana, Nagios
+- **Application Monitoring** : New Relic, Jaegar 
+- **Logs Management** : Elastic, ELK, Splunk
+- **Cloud Providers** : Civo, AWS, GCP, Azure
+- **Build Tools** : Maven, Gradle
+- **Security/Code Analysis** : SonarQube, Fortify
+- **Artifactory Storage** : JFrog, Nexus
+- Open Source & Cloud Native Tools
+- Chaos Engineering
+- Sample Projects
